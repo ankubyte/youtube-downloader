@@ -65,17 +65,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Project Structure
-
-```
-youtube-downloader/
-│
-├── downloader.py       # Main script
-├── requirements.txt    # Dependencies
-└── README.md           # You're here!
-```
-
----
 
 ## 🙋 Author
 
