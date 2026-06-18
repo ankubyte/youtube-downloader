@@ -39,7 +39,7 @@ pip install yt-dlp
 ## 🚀 Usage
 
 ```bash
-python downloader.py
+python yt-download.py
 ```
 
 Enter the YouTube URL when prompted and the video will be downloaded to your current directory.
